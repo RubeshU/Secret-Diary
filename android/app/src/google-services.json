@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "887763060170",
+    "project_id": "secret-diary-two",
+    "storage_bucket": "secret-diary-two.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887763060170:android:a371ed225148bf0be87b33",
+        "android_client_info": {
+          "package_name": "com.example.secret_diary_two"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887763060170-ars9vrf1fbbqo3tmqfps2irmf59sfom7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6Vec8V3vtbd50G0Ae__VzW_YrEevyJtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887763060170-ars9vrf1fbbqo3tmqfps2irmf59sfom7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
